@@ -75,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 3. add new sidebar menu
 4. add authentication(JWT)
 5. add pagination?
+6. create modal for calendar add event
